@@ -38,6 +38,6 @@ function onClickHandler(event) {
       instance.close();
     }
   }
-};
+}
 
 console.log(galleryItems);
